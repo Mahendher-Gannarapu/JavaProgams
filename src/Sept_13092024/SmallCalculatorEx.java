@@ -7,7 +7,7 @@ public class SmallCalculatorEx {
     public static void main(String[] args) {
         double a=34;
         double b=10;
-        double c,d,e,f,g;
+        double c,d,e,f,g,h;
         c=a+b;
         d=a-b;
         e=a*b;
