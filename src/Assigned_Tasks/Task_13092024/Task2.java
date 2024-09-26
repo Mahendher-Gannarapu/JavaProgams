@@ -2,8 +2,8 @@
 double a = 34;
 double b = 10;
 Print - a+b, a-b, ab, a/b, a%b all the outputs. */
-package Sept_13092024;
-public class SmallCalculatorEx {
+package Assigned_Tasks.Task_13092024;
+public class Task2 {
     public static void main(String[] args) {
         double a=34;
         double b=10;

@@ -5,8 +5,8 @@ output will be like this (by using the println())
 10 × 3 = 30….
 10 × 10 = 100. */
 
-package Sept_13092024;
-public class TableOf10Ex {
+package Assigned_Tasks.Task_13092024;
+public class Task1 {
     public static void main(String[] args) {
         int n=10;
 

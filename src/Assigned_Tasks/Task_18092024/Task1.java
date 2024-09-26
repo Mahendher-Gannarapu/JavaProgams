@@ -1,6 +1,6 @@
-package Sept_18092024;
+package Assigned_Tasks.Task_18092024;
 
-public class Task_18092024 {
+public class Task1 {
     public static void main(String[] args) {
 //        1. Give some another example of Widening with Implicit and Explicit, Narrowing with implicit and explicit.
 //Widening -implicit casting
@@ -13,9 +13,9 @@ public class Task_18092024 {
 // making it equivalent to 123434956.0.
 
 //Widening -Explicit casting
-//        int a = 123434956;
-//        double b = (double)a;
-//        System.out.println(b);
+        int a1 = 123434956;
+        double b1 = (double)a1;
+        System.out.println(b1);
 
 //Narrowing -Implicit casting
 //        int a = 12334;
@@ -24,24 +24,9 @@ public class Task_18092024 {
 //        System.out.println(b);
 
 //Narrowing -Implicit casting
-//        int a = 12;
-//        char b = (char)a;
-//        System.out.println(b);
-//
-//        2. int a = 10;
-//        System.out.println(  --a + a--  + a--); System.out.println(a);
-//        Output: 26
-//        7
-//
-//        3. int a = 10;
-//        System.out.println(  --a + a++ + a--); System.out.println(a);
-//        OutPut: 28
-//        9
-//
-//        4. int a = 10;
-//        System.out.println(  a-- + a--  + a--); System.out.println(a);
-//        Output: 27
-//        7
-//
+        int a2 = 12;
+        char b2 = (char)a2;
+        System.out.println(b2);
+
     }
 }
