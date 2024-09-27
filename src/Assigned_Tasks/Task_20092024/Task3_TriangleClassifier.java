@@ -21,7 +21,7 @@ public class Task3_TriangleClassifier {
         int b = sc.nextInt();
         int c = sc.nextInt();
 
-        if (a==b && a==c)
+        if (a==b && a==c && b==c)
         {
             System.out.println("All sides are equal");
         }
