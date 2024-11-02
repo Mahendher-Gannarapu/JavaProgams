@@ -1,4 +1,4 @@
-package October_2024._09102024_Polymorpishm.MethodOverloading;
+package October_2024._09102024_Poly_Dynamic_Dispatch.MethodOverloading;
 
 public class MathOperations {
 

@@ -1,4 +1,4 @@
-package October_2024._09102024_Polymorpishm.MethodOverriding.RealEx;
+package October_2024._09102024_Poly_Dynamic_Dispatch.MethodOverriding.RealEx;
 
 public class MainDemoEx {
     public static void main(String[] args) {
