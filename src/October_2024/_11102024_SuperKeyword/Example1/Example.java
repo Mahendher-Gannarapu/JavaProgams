@@ -1,4 +1,4 @@
-package October_2024._11102024_SuperKeyword;
+package October_2024._11102024_SuperKeyword.Example1;
 
 public class Example {
     //     // super keyword in Java is a reference variable that allows
