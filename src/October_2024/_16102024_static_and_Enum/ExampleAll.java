@@ -1,4 +1,4 @@
-package October_2024._16102024;
+package October_2024._16102024_static_and_Enum;
 
 public class ExampleAll {
     public static void main(String[] args) {

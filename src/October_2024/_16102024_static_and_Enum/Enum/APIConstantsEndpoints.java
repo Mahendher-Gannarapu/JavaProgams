@@ -1,4 +1,4 @@
-package October_2024._16102024.Enum;
+package October_2024._16102024_static_and_Enum.Enum;
 
 public enum APIConstantsEndpoints {
         BASE_URL("https://app.vwo.com"),
