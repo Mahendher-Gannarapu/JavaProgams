@@ -31,7 +31,7 @@ public class VectorEx {
         // Only Problem with the Vector
         // - It is Thread Safe, Synchronised.
         // It will be time consumming
-        // One by One - usage
+        // Operation will do One by One - usage
         // Slower
 
     }}
