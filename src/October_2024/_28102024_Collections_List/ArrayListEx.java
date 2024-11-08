@@ -22,5 +22,6 @@ public class ArrayListEx {
         System.out.println(l.isEmpty());
         System.out.println(l.indexOf(3)); //Find first occurrence of element in the list
         System.out.println(l.lastIndexOf(3));
+
     }
 }

@@ -14,6 +14,7 @@ public class MapEx1_HashMap {
         map.put("id3",34);
         map.put("id4",null); //more than one "value" is null allowed
         map.put("id5",null);
+        map.put("id5",22);
         map.put(null,100);
         //map.put(null,102); //more than one "Key" is null not allowed
 

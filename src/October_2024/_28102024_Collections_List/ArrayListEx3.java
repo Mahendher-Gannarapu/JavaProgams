@@ -12,6 +12,8 @@ public class ArrayListEx3 {
         mylist.add("Amit");
         mylist.add("Dutta");
 
+
+
         System.out.println(" - To Print Arraylist - 1 ");
 
         for (String str : mylist) {
@@ -33,7 +35,9 @@ public class ArrayListEx3 {
             System.out.println(iterator.next());
         }
 
-
+        for (int i = mylist.size(); i > 0; i--) {
+            System.out.println(mylist.get(i));
+        }
 
     }
 }
