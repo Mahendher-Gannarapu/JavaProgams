@@ -1,7 +1,7 @@
 package October_2024._11102024_Encapsulation.Ex;
 
 public class Family {
-    String child = "Srihansh";
+     String child = "Srihansh";
 
 
     //Behaviour

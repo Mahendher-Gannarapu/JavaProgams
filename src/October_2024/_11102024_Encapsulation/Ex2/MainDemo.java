@@ -14,6 +14,7 @@ public class MainDemo {
         ICICIBank admin = new ICICIBank("admin", 22222);
         admin.setBal(55555, true);
         System.out.println(admin.getName());
+        System.out.println(admin.getBal());
     }
 }
 
